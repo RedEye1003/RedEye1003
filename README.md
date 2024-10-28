@@ -17,3 +17,10 @@ Here are some ideas to get you started:
 <a class="socialicon github" href="https://cyber.comolho.com/user/profile/hariharasuthan918/" target="_blank" rel="author" style="display: flex; justify-content: center; align-items: center;">
                 <img src="https://cyber.comolho.com/static/img/logo.png" alt="GitHub Profile" width="45" height="45">
               </a>
+<a class="socialicon linkedin" href="https://www.linkedin.com/in/harihara-suthan/" target="_blank" rel="author">
+                <svg class="linkedin-icon" xmlns="http://www.w3.org/2000/svg" width="35" viewBox="0 0 24 24" fill="#0e76a8" stroke-width="1" stroke-linecap="round" stroke-linejoin="round">
+                  <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path>
+                  <rect x="2" y="9" width="4" height="12"></rect>
+                  <circle cx="4" cy="4" r="2"></circle>
+                </svg>
+              </a>
