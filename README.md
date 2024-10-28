@@ -26,13 +26,11 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=js" />
     <img src="https://skillicons.dev/icons?i=php" />
     <img src="https://skillicons.dev/icons?i=py" />
-</p>
-<p align="center">
     <img src="https://skillicons.dev/icons?i=bash" />
     <img src="https://skillicons.dev/icons?i=powershell" />
     <img src="https://skillicons.dev/icons?i=docker" />
     <img src="https://skillicons.dev/icons?i=kubernetes" />
-    <img src="https://skillicons.dev/icons?i=nginx" />  
+    <img src="https://skillicons.dev/icons?i=nginx" />
 </p>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=ubuntu" />
