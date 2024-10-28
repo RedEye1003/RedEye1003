@@ -17,12 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
- ## 🏆 Achievements
- - 🌟Hall of Fame Recognition: Awarded a place in the Hall of Fame of (MSRC) Microsoft Security Response Center for outstanding contributions.
-- Bounty Awarded: Received a bounty for a P3 security finding on an Android application.
-- Penetration Testing Expertise: Conducted successful penetration tests for high-profile clients across web applications, APIs, networks, and mobile platforms.
-
 ## 🛠️ Tech Stack & Tools
 - Languages: HTML, CSS, Python, JavaScript, Bash and SQL
 - Cybersecurity Tools: Burp Suite, Wireshark, Nmap, Metasploit, OWASP ZAP, and more.
@@ -31,6 +25,11 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=instagram" />
     <img src="https://cyber.comolho.com/static/img/logo.png" alt="GitHub Profile" width="45" height="45">
 </p>
+
+ ## 🏆 Achievements
+ - 🌟Hall of Fame Recognition: Awarded a place in the Hall of Fame of (MSRC) Microsoft Security Response Center for outstanding contributions.
+- Bounty Awarded: Received a bounty for a P3 security finding on an Android application.
+- Penetration Testing Expertise: Conducted successful penetration tests for high-profile clients across web applications, APIs, networks, and mobile platforms.
  
  ## 🔗 Connect with Me
 <p align="center">
