@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">Profiles</p>
+<p align="center" style="bold">Profiles</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/harihara-suthan">
     <img src="https://skillicons.dev/icons?i=linkedin" />
