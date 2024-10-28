@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
  ## 🏆 Achievements
 <hr>
+ ## Profile
 <p align="center">
   <a href="https://www.linkedin.com/in/harihara-suthan">
     <img src="https://skillicons.dev/icons?i=linkedin" />
