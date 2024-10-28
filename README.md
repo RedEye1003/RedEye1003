@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://cyber.comolho.com/static/img/logo.png" width="100"/>
-</div>
+
 ## Hi there ,I'm HARIHARASUTHAN👋 
 <!--
 **RedEye1003/RedEye1003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a class="socialicon github" href="https://cyber.comolho.com/user/profile/hariharasuthan918/" target="_blank" rel="author" style="display: flex; justify-content: center; align-items: center;">
+                <img src="image/comolho-modified.png" alt="GitHub Profile" width="45" height="45">
+              </a>
