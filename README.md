@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 - Penetration Testing Expertise: Conducted successful penetration tests for high-profile clients across web applications, APIs, networks, and mobile platforms.
 
 <hr>
+ ## 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/harihara-suthan">
     <img src="https://skillicons.dev/icons?i=linkedin" />
