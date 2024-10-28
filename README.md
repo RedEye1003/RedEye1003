@@ -21,9 +21,21 @@ Here are some ideas to get you started:
 - Languages: HTML, CSS, Python, JavaScript, Bash and SQL
 - Cybersecurity Tools: Burp Suite, Wireshark, Nmap, Metasploit, OWASP ZAP, and more.
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-    <img src="https://skillicons.dev/icons?i=instagram" />
-    <img src="https://cyber.comolho.com/static/img/logo.png" alt="GitHub Profile" width="45" height="45">
+    <img src="https://skillicons.dev/icons?i=bash" />
+    <img src="https://skillicons.dev/icons?i=css" />
+    <img src="https://skillicons.dev/icons?i=docker" />
+    <img src="https://skillicons.dev/icons?i=html" />
+    <img src="https://skillicons.dev/icons?i=js" />
+    <img src="https://skillicons.dev/icons?i=kubernetes" />
+    <img src="https://skillicons.dev/icons?i=nginx" />
+    <img src="https://skillicons.dev/icons?i=php" />
+    <img src="https://skillicons.dev/icons?i=postman" />
+    <img src="https://skillicons.dev/icons?i=powershell" />
+    <img src="https://skillicons.dev/icons?i=py" />
+    <img src="https://skillicons.dev/icons?i=redhat" />
+    <img src="https://skillicons.dev/icons?i=ubuntu" />
+    <img src="https://skillicons.dev/icons?i=vscode" />
+    <img src="https://skillicons.dev/icons?i=wordpress" />
 </p>
 
  ## 🏆 Achievements
