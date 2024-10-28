@@ -5,15 +5,6 @@ I'm a passionate Cybersecurity Specialist with a focus on securing systems, impr
 - With 1.6 years of experience in cybersecurity, I bring a solid foundation and a passion for protecting digital assets.
 - I am currently an Information Security Analyst at Futurecalls Technology Private Limited.
 - My primary skills include penetration testing on web applications, APIs, networks, Android, and iOS applications
-
-## 🛠️ Tech Stack & Tools
-- Languages: HTML, CSS, Python, JavaScript, Bash and SQL
-- Cybersecurity Tools: Burp Suite, Wireshark, Nmap, Metasploit, OWASP ZAP, and more.
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-    <img src="https://skillicons.dev/icons?i=instagram" />
-    <img src="https://cyber.comolho.com/static/img/logo.png" alt="GitHub Profile" width="45" height="45">
-</p>
 <!--
 **RedEye1003/RedEye1003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -26,10 +17,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
  ## 🏆 Achievements
  - 🌟Hall of Fame Recognition: Awarded a place in the Hall of Fame of (MSRC) Microsoft Security Response Center for outstanding contributions.
 - Bounty Awarded: Received a bounty for a P3 security finding on an Android application.
 - Penetration Testing Expertise: Conducted successful penetration tests for high-profile clients across web applications, APIs, networks, and mobile platforms.
+
+## 🛠️ Tech Stack & Tools
+- Languages: HTML, CSS, Python, JavaScript, Bash and SQL
+- Cybersecurity Tools: Burp Suite, Wireshark, Nmap, Metasploit, OWASP ZAP, and more.
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=instagram" />
+    <img src="https://cyber.comolho.com/static/img/logo.png" alt="GitHub Profile" width="45" height="45">
+</p>
  
  ## 🔗 Connect with Me
 <p align="center">
