@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  ## 🏆 Achievements
+ - 🌟 AWARDED A PLACE IN THE HALL OF FAME OF THE MICROSOFT SECURITY RESPONSE CENTER (MSRC).
 <hr>
 <p align="center">
   <a href="https://www.linkedin.com/in/harihara-suthan">
