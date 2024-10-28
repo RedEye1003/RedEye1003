@@ -39,6 +39,7 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=nginx" />
 </p>
 <p align="center">
+    <img src="https://skillicons.dev/icons?i=git" />
     <img src="https://skillicons.dev/icons?i=ubuntu" />
     <img src="https://skillicons.dev/icons?i=postman" />
     <img src="https://skillicons.dev/icons?i=redhat" /> 
