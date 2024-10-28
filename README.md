@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/GuRuLWOGo0CI" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/gifnews-russia-GuRuLWOGo0CI" width="100"/>
+  <img src="https://giphy.com/embed/GuRuLWOGo0CI" width="100"/>
 </div>
 ## Hi there ,I'm HARIHARASUTHAN👋 
 <!--
