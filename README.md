@@ -18,6 +18,6 @@ Here are some ideas to get you started:
                 <img src="https://cyber.comolho.com/static/img/logo.png" alt="GitHub Profile" width="45" height="45">
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=azure,instagram,linkedin" />
   </a>
 </p>
