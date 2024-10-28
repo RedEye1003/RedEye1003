@@ -9,6 +9,11 @@ I'm a passionate Cybersecurity Specialist with a focus on securing systems, impr
 ## 🛠️ Tech Stack & Tools
 - Languages: HTML, CSS, Python, JavaScript, Bash and SQL
 - Cybersecurity Tools: Burp Suite, Wireshark, Nmap, Metasploit, OWASP ZAP, and more.
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=instagram" />
+    <img src="https://cyber.comolho.com/static/img/logo.png" alt="GitHub Profile" width="45" height="45">
+</p>
 <!--
 **RedEye1003/RedEye1003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
