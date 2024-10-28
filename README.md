@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/GuRuLWOGo0CI" width="100"/>
+  <img src="https://cyber.comolho.com/static/img/logo.png" width="100"/>
 </div>
 ## Hi there ,I'm HARIHARASUTHAN👋 
 <!--
