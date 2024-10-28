@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 ## 🛠️ Tech Stack & Tools
 - Languages: HTML, CSS, Python, JavaScript, Bash and SQL
 - Cybersecurity Tools: Burp Suite, Wireshark, Nmap, Metasploit, OWASP ZAP, and more.
+<!--
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html" />
     <img src="https://skillicons.dev/icons?i=css" />
@@ -46,6 +47,7 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=vscode" />
     <img src="https://skillicons.dev/icons?i=wordpress" />
 </p>
+-->
  
  ## 🔗 Connect with Me
 <p align="center">
