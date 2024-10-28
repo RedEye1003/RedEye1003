@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ ## 🏆 Achievements
 <hr>
 <p align="center">
   <a href="https://www.linkedin.com/in/harihara-suthan">
