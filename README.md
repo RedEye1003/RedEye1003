@@ -7,8 +7,8 @@ I'm a passionate Cybersecurity Specialist with a focus on securing systems, impr
 - My primary skills include penetration testing on web applications, APIs, networks, Android, and iOS applications
 
 ## 🛠️ Tech Stack & Tools
-Languages: HTML, CSS, Python, JavaScript, Bash and SQL
-Cybersecurity Tools: Burp Suite, Wireshark, Nmap, Metasploit, OWASP ZAP, and more.
+- Languages: HTML, CSS, Python, JavaScript, Bash and SQL
+- Cybersecurity Tools: Burp Suite, Wireshark, Nmap, Metasploit, OWASP ZAP, and more.
 <!--
 **RedEye1003/RedEye1003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
