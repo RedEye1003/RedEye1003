@@ -1,7 +1,8 @@
-
 ## Hi there ,I'm HARIHARASUTHAN👋 
+ I am a cybersecurity professional with 1.6 years of experience, specializing in penetration testing for web applications, APIs, Android, iOS, and network infrastructure.
 
 ## 🚀 About Me
+
 ## Tech Stack
 <!--
 **RedEye1003/RedEye1003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
