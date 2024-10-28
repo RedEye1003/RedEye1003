@@ -1,9 +1,14 @@
 ## Hi there ,I'm HARIHARASUTHAN👋 
- I am a cybersecurity professional with 1.6 years of experience, specializing in penetration testing for web applications, APIs, Android, iOS, and network infrastructure.
+I'm a passionate Cybersecurity Specialist with a focus on securing systems, improving user privacy, and enhancing application security. From API protection to mobile app security, I enjoy exploring new ways to keep the digital world safe. I’m constantly evolving my skills to stay ahead in the fast-paced world of cybersecurity and tech.
 
 ## 🚀 About Me
+- With 1.6 years of experience in cybersecurity, I bring a solid foundation and a passion for protecting digital assets.
+- I am currently an Information Security Analyst at Futurecalls Technology Private Limited.
+- My primary skills include penetration testing on web applications, APIs, networks, Android, and iOS applications
 
-## Tech Stack
+## 🛠️ Tech Stack & Tools
+Languages: HTML, CSS, Python, JavaScript, Bash and SQL
+Cybersecurity Tools: Burp Suite, Wireshark, Nmap, Metasploit, OWASP ZAP, and more.
 <!--
 **RedEye1003/RedEye1003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
