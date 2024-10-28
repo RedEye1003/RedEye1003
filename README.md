@@ -27,8 +27,7 @@ Here are some ideas to get you started:
  - 🌟Hall of Fame Recognition: Awarded a place in the Hall of Fame of (MSRC) Microsoft Security Response Center for outstanding contributions.
 - Bounty Awarded: Received a bounty for a P3 security finding on an Android application.
 - Penetration Testing Expertise: Conducted successful penetration tests for high-profile clients across web applications, APIs, networks, and mobile platforms.
-
-<hr>
+ 
  ## 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/harihara-suthan">
