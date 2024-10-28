@@ -19,6 +19,9 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/harihara-suthan">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  <a href="https://www.instagram.com/_harihara_suthan_">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
   <a class="socialicon github" href="https://cyber.comolho.com/user/profile/hariharasuthan918/" target="_blank" rel="author" style="display: flex; justify-content: center; align-items: center;">
                 <img src="https://cyber.comolho.com/static/img/logo.png" alt="GitHub Profile" width="45" height="45">
 </a>
